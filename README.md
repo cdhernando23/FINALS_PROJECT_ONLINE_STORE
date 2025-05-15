@@ -6,7 +6,7 @@ A modern e-commerce platform for digital learning content and courses, built wit
 
 - Christian D. Hernando - 2023-2110714
 - John Raph Avengoza - 2023-2110386
-- John Benedict Oro
+- John Benedict Oro - 2023-2110168
 
 ## Features
 
